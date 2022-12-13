@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.bg-red{
+  background-color: red;
+  color: white
+}
+.bg-green{
+  background-color: green;
+  color: white
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
